@@ -72,7 +72,7 @@ Production applications deployed and maintained on **Google Cloud Run** and **Go
     </td>
     <td width="50%" valign="top">
       <a href="https://opic.mincasurong.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/m9g-mincasurong/personal-webpage/main/public/screenshots/opic.png" width="100%" alt="OPIc AI Master Coach" style="border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/18ba78a7-32ea-4690-8ea4-971d860b58f8" width="100%" alt="OPIc AI Master Coach" style="border-radius: 8px;" />
       </a>
       <h3>🎙️ <a href="https://opic.mincasurong.com/">OPIc AI Master Coach</a></h3>
       <p><b>Web Application • Google Cloud Run • Gemini & Speech AI</b></p>
@@ -86,7 +86,7 @@ Production applications deployed and maintained on **Google Cloud Run** and **Go
   <tr>
     <td width="50%" valign="top">
       <a href="https://jplt.mincasurong.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/m9g-mincasurong/personal-webpage/main/public/screenshots/jplt.png" width="100%" alt="JLPT N4 Mock Exam & Drill Master" style="border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/76a5cd9d-ef41-4728-a6f0-5e3fa4d480d0" width="100%" alt="JLPT N4 Mock Exam & Drill Master" style="border-radius: 8px;" />
       </a>
       <h3>🇯🇵 <a href="https://jplt.mincasurong.com/">JLPT N4 Mock Exam & Drill Master</a></h3>
       <p><b>Web Application • Google Cloud Run • Gemini 1:1 Tutor</b></p>
@@ -98,7 +98,7 @@ Production applications deployed and maintained on **Google Cloud Run** and **Go
     </td>
     <td width="50%" valign="top">
       <a href="https://patent.mincasurong.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/m9g-mincasurong/personal-webpage/main/public/screenshots/patent.png" width="100%" alt="KIPRIS Patent Intelligence Dual Hub" style="border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/1907981a-03fd-43e6-a515-b81bf7da22a8" width="100%" alt="KIPRIS Patent Intelligence Dual Hub" style="border-radius: 8px;" />
       </a>
       <h3>🔎 <a href="https://patent.mincasurong.com/">KIPRIS Patent Intelligence Dual Hub</a></h3>
       <p><b>Web Application • Google Cloud Run • Enterprise IP RAG</b></p>
